@@ -3,4 +3,6 @@
   <li>Color Flicker</li>
   <li>Palindrome Checker</li>
   <li>Random Quote Generator</li>
+  <li>Stopwatch</li>
+  <li>TODO List</li>
 </ol>
